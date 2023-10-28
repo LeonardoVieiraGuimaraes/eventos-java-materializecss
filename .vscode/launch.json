@@ -2,11 +2,11 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Spring Boot-EventoApplication<evento>",
+            "name": "Spring Boot-ProjecteventoApplication<projectevento>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
-            "mainClass": "com.evento.evento.EventoApplication",
-            "projectName": "evento",
+            "mainClass": "com.project.projectevento.ProjecteventoApplication",
+            "projectName": "projectevento",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
         }
